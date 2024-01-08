@@ -1,15 +1,15 @@
-Здрастье , здесь вообщем кратко о себе расскажу:
+Hello, I'll tell you about myself briefly here:
 __________________________________________
-🤨Имя не палю , Пишу ща на пайтоне , немного знаком с html+css , тоесть в бэкенд вкатываюсь.
+🤨I do not burn the name , I write less in Python , I am a little familiar with html + css , that is , I roll into the backend.
 __________________________________________
-👩‍💻 Фреймворки/Библиотеки : Flask , Telebot , Pyrogram , BeautifulSoup
+👩💻 Frameworks/Libraries : Flask , Telebot , Pyrogram , BeautifulSoup
 __________________________________________
-🌏Живу в России и мне 16.
+I live in Russia and I am 16.
 __________________________________________
-Все , тебе вполне информации хватит...
+That's enough information for you...
 
-📞 А , забыл связь со мной...
-могу те мой ТГ дать:
+Ah , I forgot to contact me ...
+can I give you my TG:
 https://t.me/AR_34_2
 _____________________________
-Теперь точно все.
+That's it for sure now.
