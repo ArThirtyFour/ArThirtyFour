@@ -14,9 +14,7 @@ ___
 ___
 ## *I live in Russia and I am 16.*
 ___
-### That's enough information for you...
-
-### Ah , I forgot to contact me ...  I can give you my TG:
-> ### https://t.me/AR_34_2
+> ### That's enough information for you...
+> ### Ah , I forgot to contact me ...  I can give you my [Telegram](https://t.me/TBOY_AH6EJ_UHTEPHETA)
 ___
 # That's it for sure now.
