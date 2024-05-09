@@ -19,6 +19,7 @@ ___
 > * <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="Python"  alt="Python" width="55" height="55"/> 
 > * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/187px-Requests_Python_Logo.png" title="Reuqests"  alt="Requests" width="55" /> 
 ___
+> ### _Another Skills_ :
 > [![My IDE](https://skillicons.dev/icons?i=css,html,sqlite)](https://skillicons.dev)
 > ## *I live in Russia and I am 16.*
 <p align="center"><img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/></p>
