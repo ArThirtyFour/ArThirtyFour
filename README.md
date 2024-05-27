@@ -29,7 +29,7 @@ ___
 
 
 <div style="display: inline-block; margin-right: 10px;">
-    <a href="https://t.me/AH6EJ_UHTEPHETA">
+    <a href="https://t.me/OMG_KawaiiAngelChan">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" style="width: 100px; height: 50px;">
     <a href="https://discord.com/users/737349861963202700/">
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord Logo" style="width: 50px; height: 50px;"></a></div>
