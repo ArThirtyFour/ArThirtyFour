@@ -31,7 +31,9 @@ ___
 > ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 > ## *I live in Russia and I am 16.*
 <p align="center"><img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/></p>
+
 ___
+
 ## My Social Media Profiles:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OMG_KawaiiAngelChan)
