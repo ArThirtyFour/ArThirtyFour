@@ -12,6 +12,10 @@ ___
 ![ArThirtyFour's Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
 ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="149" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ArThirtyFour&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ## 💻 I am engaged in the creation of bots, websites and other things.
 
