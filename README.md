@@ -1,21 +1,20 @@
 ## 👋 Hello, I'll tell you about myself briefly here:
 ___
-### My languages :
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-### My IDE-s:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+> ### My languages :
+> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> ### My IDE-s:
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+>
+> ### Here are my profile stats:
+>
+> ![ArThirtyFour's Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko&show_icons=true&hide_border=false&count_private=true)
+> ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
+> ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
+> ![Trofies](https://github-profile-trophy.vercel.app?username=ArThirtyFour&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4)
+> ![ArThirtyFour's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2&height=150)
 
-### Here are my profile stats:
-
-![ArThirtyFour's Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko&show_icons=true&hide_border=false&count_private=true)
-![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
-![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="149" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ArThirtyFour&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ## 💻 I am engaged in the creation of bots, websites and other things.
 
@@ -40,7 +39,7 @@ ___
 > ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 > ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 > ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+>
 > ### _My Social Media Profiles_:
 >
 > [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OMG_KawaiiAngelChan)
