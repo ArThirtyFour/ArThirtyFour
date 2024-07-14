@@ -8,21 +8,22 @@ ___
 > ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 >
 > ### My OS:
-> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+> ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 > ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ___
 > ### Here are my profile stats:
->
+> ![Trofiy](https://github-profile-trophy.vercel.app/?username=ArThirtyFour&theme=juicyfresh&no-bg=true)
+> 
 > ![ArThirtyFour's Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko&show_icons=true&hide_border=false&count_private=true)
 > ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
 > ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
-> ![Trofies](https://github-profile-trophy.vercel.app?username=ArThirtyFour&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4)
-> ![ArThirtyFour's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2&height=150)
-
-
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArThirtyFour&hide_progress=true&theme=dark)
+>
+> ### And LeetCode :)
+> 
+> ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
 ## 💻 I am engaged in the creation of bots, websites and other things.
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Started+coding+in+September+2023.)](https://git.io/typing-svg)
 ___
 # Frameworks/Libraries
 > * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
