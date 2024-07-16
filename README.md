@@ -27,13 +27,13 @@ ___
 ___
 # Frameworks/Libraries
 > * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-> * <img src="https://pytba.readthedocs.io/ru/latest/_static/logo.png" title="Telebot"  alt="Python" margin-left=100px width="55" height="55"/> 
-> * <img src="https://avatars.githubusercontent.com/u/34474300?s=48&v=4" title="Python"  alt="Python" width="55" height="55"/> 
-> * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_a5FunT8OzYGmdTautX7oNY3JJG4bDUkulQxeMMl6Hvoi9USF1QIvbiKFjmtQ4oktfc&usqp=CAU" title="Python"  alt="BS4" height="55">
+> * **Telebot** 
+> * **Pyrogram**
+> * **BeautifulSoup**
 > * ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 > * <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="Python"  alt="Python" width="55" height="55"/> 
-> * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/187px-Requests_Python_Logo.png" title="Reuqests"  alt="Requests" width="55" />
-> * <img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" title="tkinter"  alt="tkinter" width="55" />
+> * **Requests**
+> * **Tkinter**
 >
 > <p align="center"><img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/></p>
 
