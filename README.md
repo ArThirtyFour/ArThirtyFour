@@ -3,6 +3,7 @@ ___
 > ### My languages :
 > ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+>
 > ### My IDE-s:
 > ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 > ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -56,5 +57,7 @@ ___
 > [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArThirtyFour)
 
 ___
-### Thank you for looking at the profile, and your view is one of them:
-![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
+> ### Thank you for looking at the profile, and your view is one of them:
+> ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
+>
+> ![Play in Spotifty](https://badges.lastfm.workers.dev/last-played?user=dtydduyyur&style=for-the-badge)
