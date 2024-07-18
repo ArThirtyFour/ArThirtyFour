@@ -15,10 +15,9 @@ ___
 > ### Here are my profile stats:
 > ![Trofiy](https://github-profile-trophy.vercel.app/?username=ArThirtyFour&theme=juicyfresh&no-bg=true)
 > 
-> ![ArThirtyFour's Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko&show_icons=true&hide_border=false&count_private=true)
 > ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
 > ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArThirtyFour&hide_progress=true&theme=dark)
+
 >
 > ### And LeetCode :)
 > 
