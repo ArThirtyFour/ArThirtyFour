@@ -13,12 +13,12 @@ ___
 > ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ___
 > ### Here are my profile stats:
-> ![Trofiy](https://github-profile-trophy.vercel.app/?username=ArThirtyFour&theme=juicyfresh&no-bg=true)
+> ![Trofiy](https://github-profile-trophy.vercel.app/?username=ArThirtyFour&theme=merko&no-bg=true)
 > 
 > ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
+> ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko)
 > ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
-
->
+> ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&theme=merko)
 > ### And LeetCode :)
 > 
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
@@ -58,5 +58,5 @@ ___
 ___
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
->
-> ![Play in Spotifty](https://badges.lastfm.workers.dev/last-played?user=dtydduyyur&style=for-the-badge)
+> 
+> ![Play in Spotifty](https://spotify-recently-played-readme.vercel.app/api?user=31ugegrutwgw2yvq2sqtxctcfvbq)
