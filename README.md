@@ -30,8 +30,7 @@ ___
 > * **Telebot** 
 > * **Pyrogram**
 > * **BeautifulSoup**
-> * ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-> * <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="Python"  alt="Python" width="55" height="55"/> 
+> * ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 > * **Requests**
 > * **Tkinter**
 >
