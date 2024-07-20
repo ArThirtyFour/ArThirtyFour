@@ -18,7 +18,6 @@ ___
 > ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
 > ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko)
 > ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
-> ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&theme=merko)
 > ### And LeetCode :)
 > 
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
