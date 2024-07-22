@@ -19,7 +19,6 @@ ___
 > ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko)
 > ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
 > ### And LeetCode :)
-> 
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
 ## 💻 I am engaged in the creation of bots, websites and other things.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Started+coding+in+September+2023.)](https://git.io/typing-svg)
