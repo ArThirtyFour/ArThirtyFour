@@ -54,6 +54,6 @@ ___
 
 ___
 > ### Thank you for looking at the profile, and your view is one of them:
-> ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
+> ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ugegrutwgw2yvq2sqtxctcfvbq&count=1&width=500)
 > 
-> ![Play in Spotifty](https://spotify-recently-played-readme.vercel.app/api?user=31ugegrutwgw2yvq2sqtxctcfvbq)
+> ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
