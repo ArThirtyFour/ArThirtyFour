@@ -1,4 +1,4 @@
-## 👋 Hello, I'll tell you about myself briefly here:
+# 👋 Hello, I'll tell you about myself briefly here:
 ___
 > ### My languages :
 > ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,8 +20,8 @@ ___
 > ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
 > ### And LeetCode :)
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
-## 💻 I am engaged in the creation of bots, websites and other things.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Started+coding+in+September+2023.)](https://git.io/typing-svg)
+> ## 💻 I am engaged in the creation of bots, websites and other things.
+> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Started+coding+in+September+2023.)](https://git.io/typing-svg)
 ___
 # Frameworks/Libraries
 > * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
