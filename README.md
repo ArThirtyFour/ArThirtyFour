@@ -21,7 +21,9 @@ ___
 > ### And LeetCode :)
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
 > ## 💻 I am engaged in the creation of bots, websites and other things.
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Started+coding+in+September+2023.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=🕞+Started+coding+in+September+2023.+++" alt="Typing SVG" width="600" height="100"/>
+
+
 ___
 # Frameworks/Libraries
 > * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -46,7 +48,7 @@ ___
 > ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 > ![Win Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 >
-> ### _Learing_:
+> ### _Learning_:
 > ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 > ![Linux Base](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ___
