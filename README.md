@@ -42,7 +42,6 @@ ___
 > * **Requests**
 > * **Tkinter**
 >
-> <p align="center"><img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/></p>
 
 ___
 
@@ -69,6 +68,4 @@ ___
 
 ___
 > ### Thank you for looking at the profile, and your view is one of them:
-> ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ugegrutwgw2yvq2sqtxctcfvbq&count=1&width=500)
-> 
 > ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
