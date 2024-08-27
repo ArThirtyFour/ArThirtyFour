@@ -15,9 +15,9 @@ ___
 
 ### My OS:
 
-| Windows 11 | Linux Mint | Ubuntu (Tried) | Manjaro (Tried)
-|--------|--------|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg">  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/240px-Manjaro-logo.svg.png" width=100>
+| Windows 11 | Garuda Linux | Linux Mint (leave) | Ubuntu (Tried) | Manjaro (Tried)
+|--------|--------|--------|--------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />| <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Garuda-blue-sgs.svg" width=100>|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg">  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/240px-Manjaro-logo.svg.png" width=100>
 
 ___
 > ### Here are my profile stats:
