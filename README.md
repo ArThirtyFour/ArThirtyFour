@@ -65,7 +65,6 @@ ___
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/737349861963202700/)
 [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ArThirtyFour/)
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArThirtyFour)
-
 ___
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
