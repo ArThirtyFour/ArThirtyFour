@@ -1,7 +1,6 @@
 # 👋 Hello, I'll tell you about myself briefly here:
 ___
 ### My languages :
-
 | Python | JS |
 |--------|----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=100> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=100> |
