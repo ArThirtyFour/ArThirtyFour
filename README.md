@@ -1,5 +1,3 @@
-# 👋 Hello, I'll tell you about myself briefly here:
-___
 ### My languages :
 | Python | JS |
 |--------|----|
