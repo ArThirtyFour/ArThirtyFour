@@ -22,7 +22,6 @@ ___
 > 
 > ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
 > ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko)
-> ![ArThirtyFour's Commits](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=merko&area=true&order=5)
 > ### And LeetCode :)
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
 > ## 💻 I am engaged in the creation of bots, websites and other things.
@@ -55,7 +54,7 @@ ___
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux Base](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ### _Learning_:
-So far, nothing....
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ___
 ### _My Social Media Profiles_:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OMG_KawaiiAngelChan)
