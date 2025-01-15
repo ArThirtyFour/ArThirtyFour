@@ -24,10 +24,13 @@ ___
 
 ___
 > ### Here are my profile stats:
-> ![Trofiy](https://github-profile-trophy.vercel.app/?username=ArThirtyFour&theme=merko&no-bg=true)
+> ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2)
+> ![Trofiy](https://github-profile-trophy.vercel.app/?username=ArThirtyFour&theme=radical)
 > 
-> ![ArThirtyFour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArThirtyFour&theme=merko&hide_border=false)
-> ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&theme=merko)
+> ![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=synthwave-84&area=true&order=5)
+> 
+> ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&show_icons=true&theme=radical)
+>
 > ### And LeetCode :)
 > ![Leetcode Stats](https://leetcard.jacoblin.cool/ArThirtyFour)
 > ## 💻 I am engaged in the creation of bots, websites and other things.
