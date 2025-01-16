@@ -36,18 +36,18 @@ ___
 > ## 💻 I am engaged in the creation of bots, websites and other things.
 <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=🕞+Started+coding+in+September+2023.+++" alt="Typing SVG" width="600" height="100"/>
 
-
-___
-# Frameworks/Libraries
+# Frameworks/Libraries:
 > * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 > * **Telebot** 
 > * **Pyrogram**
 > * **BeautifulSoup**
-> * ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 > * **Requests**
 > * **Tkinter**
->
-
+> 
+___
+### AI for i use:
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ___
 
 ### _Another Skills_:
@@ -64,7 +64,7 @@ ___
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux Base](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ### _Learning_:
-So far nothing...
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ___
 ### _My Social Media Profiles_:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OMG_KawaiiAngelChan)
