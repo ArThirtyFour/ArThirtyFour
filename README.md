@@ -76,5 +76,5 @@ ___
 
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
-> ### Now playing
+>
 > <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=dtydduyyur&style=for-the-badge&cacheSeconds=180"/></p> 
