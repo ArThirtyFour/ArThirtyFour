@@ -1,6 +1,6 @@
 <img src="kak_naxyi.gif" width="500px" style="text-align: center;">
 
-> ## But I'll try... I guess
+> # But I'll try... I guess
 
 ___
 
