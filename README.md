@@ -11,9 +11,9 @@ ___
 
 ### My IDE-s:
 
-| Visual Studio Code | Sublime Text | Nano |
-|--------|----|----|
-| ![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg) | <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" width=100> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg" width=90> | 
+| Visual Studio Code | Nano |
+|--------|----|
+| ![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg" width=90> | 
 
 ### My OS:
 
