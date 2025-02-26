@@ -17,9 +17,9 @@ ___
 
 ### My OS:
 
-| Windows 11 | Arch Linux |
+| Windows 11 | CachyOS |
 |--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />| <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width=100>|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/240px-CachyOS_Logo.svg.png" width=100>|
 
 ___
 > ### Here are my profile stats:
