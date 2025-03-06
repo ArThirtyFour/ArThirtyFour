@@ -1,8 +1,3 @@
-<img src="kak_naxyi.gif" width="500px" style="text-align: center;">
-
-> # But I'll try... I guess
-___
-
 ### My languages :
 | Python | JS |
 |--------|----|
