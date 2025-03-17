@@ -1,3 +1,7 @@
+ar34@kangel:~$ cat /home/ar34/about_me.md
+
+
+
 ### My languages :
 | Python | JS |
 |--------|----|
