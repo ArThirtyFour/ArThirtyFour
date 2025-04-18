@@ -29,7 +29,7 @@ ___
 > 
 > ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&show_icons=true&theme=radical)
 >
-> ## 💻 I am engaged in the creation of bots, websites and other things.
+
 <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=🕞+Started+coding+in+September+2023.+++" alt="Typing SVG" width="600" height="100"/>
 
 # Frameworks/Libraries:
