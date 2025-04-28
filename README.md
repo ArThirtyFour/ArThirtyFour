@@ -46,7 +46,8 @@ ___
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=deepseek&logoColor=white)
-
+![Perplexity](https://img.shields.io/badge/Perplexity-00A0E4?style=for-the-badge&logo=perplexity&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-FF6B00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
 ___
 
 ### _Another Skills:_
