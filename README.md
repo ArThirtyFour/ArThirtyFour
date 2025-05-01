@@ -1,9 +1,7 @@
-**ar34@kangel**:~$ cat /home/ar34/about_me.md
-
 ### My languages :
-| Python | JS |
-|--------|----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=100> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width=100> |
+| Python | JS | Bash | Batch |
+|--------|----|------|-------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=100> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width=100> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=100> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width=100> |
 
 
 ### My IDE-s:
@@ -57,8 +55,6 @@ ___
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Win Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux Base](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -76,4 +72,4 @@ ___
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![Profile View](https://profile-counter.glitch.me/{ArThirtyFour}/count.svg)
 >
-> <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=dtydduyyur&style=for-the-badge&cacheSeconds=5"/></p> 
+> <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=dtydduyyur&style=for-the-badge&cacheSeconds=5"/></p>
