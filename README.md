@@ -12,7 +12,7 @@
 
 ### My OS:
 
-| Windows 11 | NyArch Linux |
+| Windows 11 | Arch Linux |
 |--------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />| <img src="https://nyarchlinux.moe/assets/img/nyarch-nobackground-square.png" width=100>|
 
