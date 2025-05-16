@@ -16,15 +16,7 @@
 |--------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />| <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width=100>|
 
-___
-> ### Here are my profile stats:
-> ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=ArThirtyFour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2)
-> ![Trofiy](https://github-profile-trophy.vercel.app/?username=ArThirtyFour&theme=radical)
-> 
-> ![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=ArThirtyFour&radius=16&theme=synthwave-84&area=true&order=5)
-> 
-> ![Stats](https://github-readme-stats.vercel.app/api?username=ArThirtyFour&show_icons=true&theme=radical)
->
+
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=🕞+Started+coding+in+September+2023.+++" alt="Typing SVG" width="600" height="100"/>
 
