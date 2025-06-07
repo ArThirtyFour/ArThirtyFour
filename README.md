@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=🕞+Started+coding+in+September+2023.+++" alt="Typing SVG" width="600" height="100"/>
 
 # Frameworks/Libraries:
-> * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+> * **Flask**
 > * **Telebot** 
 > * **Kurigram**
 > * **BeautifulSoup**
