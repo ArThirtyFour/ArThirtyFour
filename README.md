@@ -4,20 +4,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=100> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width=100> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=100> | <img src="https://www.svgrepo.com/show/342132/powershell.svg" width=100> |
 
 
-### My IDE-s:
-
-| Cursor AI | Nano |
-|--------|----|
-| ![Cursor AI](https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg" width=90> | 
-
-### My OS:
-
-| Windows 11 | Arch Linux |
-|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />| <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width=100>|
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=🕞+Started+coding+in+September+2023.+++" alt="Typing SVG" width="600" height="100"/>
 
 # Frameworks/Libraries:
