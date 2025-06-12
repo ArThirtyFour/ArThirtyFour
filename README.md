@@ -15,14 +15,7 @@
 > * **Tkinter**
 > 
 ___
-### AI for i use:
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=deepseek&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-00A0E4?style=for-the-badge&logo=perplexity&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-FF6B00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
-___
+
 
 ### _Another Skills:_
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
