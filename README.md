@@ -2,7 +2,6 @@
 | Python | JS | Bash | Batch |
 |--------|----|------|-------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=100> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width=100> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=100> | <img src="https://www.svgrepo.com/show/342132/powershell.svg" width=100> |
-
 <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=🕞+Started+coding+in+September+2023.+++" alt="Typing SVG" width="600" height="100"/>
 
 # Frameworks/Libraries:
