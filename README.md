@@ -48,4 +48,6 @@ ___
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![Я откис](https://komarev.com/ghpvc/?username=ArThirtyFour&style=for-the-badge)
 > 
-> <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=dtydduyyur&style=for-the-badge&cacheSeconds=5"/></p>
+> [![committers.top badge](https://user-badge.committers.top/russia/ArThirtyFour.svg)](https://user-badge.committers.top/russia/ArThirtyFour)
+
+
