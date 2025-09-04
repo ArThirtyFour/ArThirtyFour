@@ -48,6 +48,4 @@ ___
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![Я откис](https://komarev.com/ghpvc/?username=ArThirtyFour&style=for-the-badge)
 > 
-> [![committers.top badge](https://user-badge.committers.top/russia/ArThirtyFour.svg)](https://user-badge.committers.top/russia/ArThirtyFour)
-
 
