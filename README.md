@@ -11,8 +11,6 @@
 > * **Kurigram**
 > * **BeautifulSoup**
 > * **Requests**
-> * **Tkinter**
-> 
 
 ___
 
