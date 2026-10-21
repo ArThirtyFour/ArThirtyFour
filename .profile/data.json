@@ -1,0 +1,622 @@
+{
+ "key": "6e7b2593",
+ "stars": 25,
+ "contributions": 610,
+ "repos": 37,
+ "followers": 29,
+ "languages": [
+  [
+   "Python",
+   313294
+  ],
+  [
+   "CSS",
+   166950
+  ],
+  [
+   "JavaScript",
+   120622
+  ],
+  [
+   "Lua",
+   108660
+  ],
+  [
+   "Pascal",
+   62522
+  ],
+  [
+   "HTML",
+   33060
+  ],
+  [
+   "Vue",
+   20872
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 6,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 13,
+  "longest": 33
+ },
+ "pins": [
+  {
+   "name": "bootloader-unlock-wall-of-shame",
+   "url": "https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame",
+   "text": "Keeping track of companies that \"care about your data 🥺\"",
+   "fork": false,
+   "stars": 5577,
+   "language": null,
+   "topics": [
+    "android",
+    "bootloader",
+    "bootloader-unlock",
+    "honor",
+    "huawei",
+    "iqoo",
+    "nokia",
+    "oppo",
+    "realme",
+    "samsung"
+   ]
+  },
+  {
+   "name": "helium",
+   "url": "https://github.com/imputnet/helium",
+   "text": "Private, fast, and honest web browser",
+   "fork": false,
+   "stars": 21768,
+   "language": "C++",
+   "topics": [
+    "browser",
+    "chromium",
+    "privacy",
+    "web-browser"
+   ]
+  },
+  {
+   "name": "Metrolist",
+   "url": "https://github.com/MetrolistGroup/Metrolist",
+   "text": "YouTube Music client for Android",
+   "fork": false,
+   "stars": 13663,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "innertube",
+    "material-design",
+    "material-ui",
+    "material3",
+    "music",
+    "music-player",
+    "musicplayer",
+    "newpipe",
+    "newpipe-extractor"
+   ]
+  },
+  {
+   "name": "windose20",
+   "url": "https://github.com/ArThirtyFour/windose20",
+   "text": "KDE Plasma in Style Needy Girl Overdose",
+   "fork": false,
+   "stars": 10,
+   "language": null,
+   "topics": [
+    "kde",
+    "kde-plasma",
+    "linux",
+    "needy-girl-overdose",
+    "needy-streamer-overload"
+   ]
+  },
+  {
+   "name": "forgejo-notifi-bot",
+   "url": "https://github.com/ArThirtyFour/forgejo-notifi-bot",
+   "text": "Simple bot that will notify you when a new  events on Forgejo-based (CodeBerg and etc.)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "forgejo",
+    "git",
+    "notifer",
+    "telegram",
+    "telegrambot"
+   ]
+  },
+  {
+   "name": "exteraless",
+   "url": "https://github.com/exteraless/exteraless",
+   "text": "",
+   "fork": false,
+   "stars": 413,
+   "language": "Java",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "windose20",
+   "url": "https://github.com/ArThirtyFour/windose20",
+   "text": "KDE Plasma in Style Needy Girl Overdose",
+   "fork": false,
+   "stars": 10,
+   "language": null,
+   "topics": [
+    "kde",
+    "kde-plasma",
+    "linux",
+    "needy-girl-overdose",
+    "needy-streamer-overload"
+   ]
+  },
+  {
+   "name": "NeedyWebUI",
+   "url": "https://github.com/ArThirtyFour/NeedyWebUI",
+   "text": "Port UI from Needy Streamer Overload in Web",
+   "fork": false,
+   "stars": 7,
+   "language": "CSS",
+   "topics": [
+    "css",
+    "needy-girl-overdose",
+    "needy-streamer-overload",
+    "style",
+    "ui",
+    "ui-design"
+   ]
+  },
+  {
+   "name": "Russian-Needy-Streamer-Overload",
+   "url": "https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload",
+   "text": "Русификатор скина по Needy Girl Overdose . почти тоже самое - только на русском.",
+   "fork": false,
+   "stars": 7,
+   "language": "Lua",
+   "topics": [
+    "needy-girl-overdose",
+    "needy-streamer-overload",
+    "rainmeter",
+    "rainmeter-skin",
+    "russian",
+    "russian-language"
+   ]
+  },
+  {
+   "name": "better-deepseek",
+   "url": "https://github.com/ArThirtyFour/better-deepseek",
+   "text": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
+   "fork": true,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "nsofetch",
+   "url": "https://github.com/ArThirtyFour/nsofetch",
+   "text": "Моя рофл версия neofetch в стиле нсо",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "needy-streamer-overload",
+    "neofetch",
+    "neofetch-clone",
+    "python"
+   ]
+  },
+  {
+   "name": "WDTT-SERVER",
+   "url": "https://github.com/ArThirtyFour/WDTT-SERVER",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "court-skill",
+   "url": "https://github.com/ArThirtyFour/court-skill",
+   "text": "A skill file for court with AI Agents",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ClockDesk",
+   "url": "https://github.com/ArThirtyFour/ClockDesk",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "forgejo-notifi-bot",
+   "url": "https://github.com/ArThirtyFour/forgejo-notifi-bot",
+   "text": "Simple bot that will notify you when a new  events on Forgejo-based (CodeBerg and etc.)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "forgejo",
+    "git",
+    "notifer",
+    "telegram",
+    "telegrambot"
+   ]
+  },
+  {
+   "name": "bootloader-unlock-wall-of-shame",
+   "url": "https://github.com/ArThirtyFour/bootloader-unlock-wall-of-shame",
+   "text": "Keeping track of companies that \"care about your data 🥺\"",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MXU-modules",
+   "url": "https://github.com/ArThirtyFour/MXU-modules",
+   "text": "Official MXUserbot modules repo | by @Pashahatsune",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Extera",
+   "url": "https://github.com/ArThirtyFour/Extera",
+   "text": "A feature-rich [matrix] client made in Flutter",
+   "fork": true,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "MXUserbot",
+   "url": "https://github.com/ArThirtyFour/MXUserbot",
+   "text": "Matrix UserBot!",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "RKNHardering",
+   "url": "https://github.com/ArThirtyFour/RKNHardering",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Plasma-Overdose",
+   "url": "https://github.com/ArThirtyFour/Plasma-Overdose",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "exteraPluginsRobot",
+   "url": "https://github.com/ArThirtyFour/exteraPluginsRobot",
+   "text": "Just a bot for Telegram",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Mate-Engine",
+   "url": "https://github.com/ArThirtyFour/Mate-Engine",
+   "text": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
+   "fork": true,
+   "stars": 0,
+   "language": "ShaderLab",
+   "topics": []
+  },
+  {
+   "name": "PromptForGASD",
+   "url": "https://github.com/ArThirtyFour/PromptForGASD",
+   "text": "Список промтов для создании базы , подобие @AntiscamDatabaseBot",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "CustomModules",
+   "url": "https://github.com/ArThirtyFour/CustomModules",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Gemini_Web",
+   "url": "https://github.com/ArThirtyFour/Gemini_Web",
+   "text": "AI chat in VueJS + TS",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "zapret.installer",
+   "url": "https://github.com/ArThirtyFour/zapret.installer",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "GASD_SourceCode",
+   "url": "https://github.com/ArThirtyFour/GASD_SourceCode",
+   "text": "Leak of Source Code GASD (relevance: march 2024)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Fonts_For_Exteragram",
+   "url": "https://github.com/ArThirtyFour/Fonts_For_Exteragram",
+   "text": "ВСЕ НУЖНОЕ ДЛЯ ЭКСТЕРЫ",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "FastCat",
+   "url": "https://github.com/ArThirtyFour/FastCat",
+   "text": "FastCat - FastFetch Theme Pack",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "goodbyeDPI-UI",
+   "url": "https://github.com/ArThirtyFour/goodbyeDPI-UI",
+   "text": "Modern UI for Deep Packet Inspection bypass utils (Windows 10/11)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "podchinis-rab-sistemy",
+   "url": "https://github.com/ArThirtyFour/podchinis-rab-sistemy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "pogugli",
+   "url": "https://github.com/ArThirtyFour/pogugli",
+   "text": "Моя верия pogugli.com",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "ai_web_chat",
+   "url": "https://github.com/ArThirtyFour/ai_web_chat",
+   "text": "AI Чат с ИИ ввиде сайта",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": [
+    "ai",
+    "flask",
+    "flask-application",
+    "vuejs"
+   ]
+  },
+  {
+   "name": "random_num_with_backend",
+   "url": "https://github.com/ArThirtyFour/random_num_with_backend",
+   "text": "Some random site with Flask + Vue",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "arthirtyfour.github.io",
+   "url": "https://github.com/ArThirtyFour/arthirtyfour.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "MiSide_macros",
+   "url": "https://github.com/ArThirtyFour/MiSide_macros",
+   "text": "Double escape macro created for speedrunning on Miside",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "macros",
+    "miside",
+    "python",
+    "speedrun",
+    "miside-speedrun"
+   ]
+  },
+  {
+   "name": "calc_with_db",
+   "url": "https://github.com/ArThirtyFour/calc_with_db",
+   "text": "Тестовое приложение :)",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "FS-Link",
+   "url": "https://github.com/ArThirtyFour/FS-Link",
+   "text": "Сайт для сокращение ссылок на Flask",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "flask",
+    "flask-template",
+    "site",
+    "url-shortener"
+   ]
+  },
+  {
+   "name": "Internation_scambase",
+   "url": "https://github.com/ArThirtyFour/Internation_scambase",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "pastebin",
+   "url": "https://github.com/ArThirtyFour/pastebin",
+   "text": "Website for posting pastes.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "antiscambaza_RB",
+   "url": "https://github.com/ArThirtyFour/antiscambaza_RB",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ArThirtyFour",
+   "url": "https://github.com/ArThirtyFour/ArThirtyFour",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  }
+ ]
+}
