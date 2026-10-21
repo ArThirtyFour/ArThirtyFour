@@ -1,52 +1,17 @@
-### My languages :
-| Python | JS | Bash |
-|--------|----|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=100> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width=100> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=100> | 
+<div align="center">
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi , i am  ArThirtyFour"></picture>
 
-# Frameworks/Libraries:
-> * **Flask**
-> * **Telebot** 
-> * **Kurigram**
-> * **BeautifulSoup**
-> * **Requests**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="17.480%" alt=""></picture><a href="https://matrix.to/#/@kangel:matrix.kangel.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="15.413%" alt="matrix"></picture></a><a href="https://www.tiktok.com/@kangel_interneta_"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.488%" alt="tiktok"></picture></a><a href="https://t.me/ArThirtyFour"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://github.com/ArThirtyFour"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-4-dark.svg"><img src="assets/social-4-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="17.480%" alt=""></picture>
 
-___
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-### _Another Skills:_
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)   
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux Base](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="5.883%" alt=""></picture><a href="https://kangel,xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="22.417%" alt="My website"></picture></a><a href="https;//git.kangel.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="24.508%" alt="My Git Server"></picture></a><a href="https://search.kangel.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-3-dark.svg"><img src="assets/button-3-light.svg" width="20.213%" alt="SearXNG"></picture></a><a href="https://matrix.kangel.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-4-dark.svg"><img src="assets/button-4-light.svg" width="21.094%" alt="My Matrix"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="5.883%" alt=""></picture>
 
-___
+<a href="https://metawka.github.io/expressive-profile/?from=ArThirtyFour"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/ArThirtyFour">
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=ArThirtyFour&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats"/>
-</a>
-
-
-___
-
-
-### _My Social Media Profiles:_
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArThirtyFour)
-[![Matrix](https://img.shields.io/badge/matrix-%23000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@kangel:matrix.kangel.xyz)
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArThirtyFour)
-
-___
-
-> ### Thank you for looking at the profile, and your view is one of them:
-> ![Я откис](https://komarev.com/ghpvc/?username=ArThirtyFour&style=for-the-badge)
->
+</div>

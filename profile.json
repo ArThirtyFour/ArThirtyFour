@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "login": "ArThirtyFour",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "about",
+    "wave"
+  ],
+  "hero": {
+    "greeting": "Hi , i am ",
+    "name": "",
+    "subtitle": "Make a open source software and etc.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": []
+  },
+  "about": {
+    "title": "",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript/JavaScript"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue.js"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:flask",
+            "label": "Flask"
+          },
+          {
+            "icon": "brand:sqlite",
+            "label": "SQL"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub/Forgejo Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "window",
+            "label": "Windows "
+          },
+          {
+            "icon": "brand:opencode",
+            "label": "AI"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 30 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": false
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:matrix",
+        "url": "https://matrix.to/#/@kangel:matrix.kangel.xyz"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@kangel_interneta_"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/ArThirtyFour"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/ArThirtyFour"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://kangel,xyz",
+        "style": "filled"
+      },
+      {
+        "icon": "brand:forgejo",
+        "label": "My Git Server",
+        "url": "https;//git.kangel.xyz",
+        "style": "tonal"
+      },
+      {
+        "icon": "brand:searxng",
+        "label": "SearXNG",
+        "url": "https://search.kangel.xyz",
+        "style": "tonal"
+      },
+      {
+        "icon": "brand:matrix",
+        "label": "My Matrix",
+        "url": "https://matrix.kangel.xyz",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
