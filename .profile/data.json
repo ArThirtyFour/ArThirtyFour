@@ -1,21 +1,17 @@
 {
- "key": "d44fb705",
+ "key": "a051bdc4",
  "stars": 25,
- "contributions": 623,
- "repos": 37,
+ "contributions": 611,
+ "repos": 25,
  "followers": 29,
  "languages": [
   [
-   "Python",
-   313294
-  ],
-  [
    "CSS",
-   177136
+   175191
   ],
   [
    "JavaScript",
-   120622
+   119800
   ],
   [
    "Lua",
@@ -26,8 +22,12 @@
    62522
   ],
   [
+   "Python",
+   54493
+  ],
+  [
    "HTML",
-   33060
+   30928
   ],
   [
    "Vue",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 4,
     "day": 25,
     "today": true
    },
@@ -153,7 +153,7 @@
    "url": "https://github.com/imputnet/helium",
    "text": "Private, fast, and honest web browser",
    "fork": false,
-   "stars": 21983,
+   "stars": 21988,
    "language": "C++",
    "topics": [
     "browser",
@@ -167,7 +167,7 @@
    "url": "https://github.com/MetrolistGroup/Metrolist",
    "text": "YouTube Music client for Android",
    "fork": false,
-   "stars": 13787,
+   "stars": 13788,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -271,15 +271,6 @@
    ]
   },
   {
-   "name": "better-deepseek",
-   "url": "https://github.com/ArThirtyFour/better-deepseek",
-   "text": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser, create PowerPoint and Excel documents, build multi-file projects as ZIP archives, and manage custom skills and characters.",
-   "fork": true,
-   "stars": 2,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
    "name": "nsofetch",
    "url": "https://github.com/ArThirtyFour/nsofetch",
    "text": "Моя рофл версия neofetch в стиле нсо",
@@ -381,45 +372,9 @@
    "topics": []
   },
   {
-   "name": "Plasma-Overdose",
-   "url": "https://github.com/ArThirtyFour/Plasma-Overdose",
-   "text": "",
-   "fork": true,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
-  {
    "name": "exteraPluginsRobot",
    "url": "https://github.com/ArThirtyFour/exteraPluginsRobot",
    "text": "Just a bot for Telegram",
-   "fork": true,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "Mate-Engine",
-   "url": "https://github.com/ArThirtyFour/Mate-Engine",
-   "text": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
-   "fork": true,
-   "stars": 0,
-   "language": "ShaderLab",
-   "topics": []
-  },
-  {
-   "name": "PromptForGASD",
-   "url": "https://github.com/ArThirtyFour/PromptForGASD",
-   "text": "Список промтов для создании базы , подобие @AntiscamDatabaseBot",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "CustomModules",
-   "url": "https://github.com/ArThirtyFour/CustomModules",
-   "text": "",
    "fork": true,
    "stars": 0,
    "language": "Python",
@@ -435,48 +390,12 @@
    "topics": []
   },
   {
-   "name": "zapret.installer",
-   "url": "https://github.com/ArThirtyFour/zapret.installer",
-   "text": "",
-   "fork": true,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "GASD_SourceCode",
-   "url": "https://github.com/ArThirtyFour/GASD_SourceCode",
-   "text": "Leak of Source Code GASD (relevance: march 2024)",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
    "name": "Fonts_For_Exteragram",
    "url": "https://github.com/ArThirtyFour/Fonts_For_Exteragram",
    "text": "ВСЕ НУЖНОЕ ДЛЯ ЭКСТЕРЫ",
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "FastCat",
-   "url": "https://github.com/ArThirtyFour/FastCat",
-   "text": "FastCat - FastFetch Theme Pack",
-   "fork": true,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "goodbyeDPI-UI",
-   "url": "https://github.com/ArThirtyFour/goodbyeDPI-UI",
-   "text": "Modern UI for Deep Packet Inspection bypass utils (Windows 10/11)",
-   "fork": true,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {
@@ -530,30 +449,6 @@
    "topics": []
   },
   {
-   "name": "MiSide_macros",
-   "url": "https://github.com/ArThirtyFour/MiSide_macros",
-   "text": "Double escape macro created for speedrunning on Miside",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "macros",
-    "miside",
-    "python",
-    "speedrun",
-    "miside-speedrun"
-   ]
-  },
-  {
-   "name": "calc_with_db",
-   "url": "https://github.com/ArThirtyFour/calc_with_db",
-   "text": "Тестовое приложение :)",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
-  },
-  {
    "name": "FS-Link",
    "url": "https://github.com/ArThirtyFour/FS-Link",
    "text": "Сайт для сокращение ссылок на Flask",
@@ -580,15 +475,6 @@
    "name": "pastebin",
    "url": "https://github.com/ArThirtyFour/pastebin",
    "text": "Website for posting pastes.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "antiscambaza_RB",
-   "url": "https://github.com/ArThirtyFour/antiscambaza_RB",
-   "text": "",
    "fork": false,
    "stars": 0,
    "language": "Python",
