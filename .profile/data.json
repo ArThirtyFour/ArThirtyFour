@@ -1,8 +1,8 @@
 {
- "key": "4534e966",
+ "key": "80f7146",
  "stars": 25,
- "contributions": 590,
- "repos": 25,
+ "contributions": 591,
+ "repos": 26,
  "followers": 30,
  "languages": [
   [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 28,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 33
  },
  "pins": [
@@ -165,7 +165,7 @@
    "url": "https://github.com/imputnet/helium",
    "text": "Private, fast, and honest web browser",
    "fork": false,
-   "stars": 22089,
+   "stars": 22098,
    "language": "C++",
    "topics": [
     "browser",
@@ -179,7 +179,7 @@
    "url": "https://github.com/MetrolistGroup/Metrolist",
    "text": "YouTube Music client for Android",
    "fork": false,
-   "stars": 13846,
+   "stars": 13853,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -229,7 +229,7 @@
    "url": "https://github.com/exteraless/exteraless",
    "text": "",
    "fork": false,
-   "stars": 432,
+   "stars": 434,
    "language": "Java",
    "topics": []
   }
@@ -295,6 +295,15 @@
     "neofetch-clone",
     "python"
    ]
+  },
+  {
+   "name": "bb-wayland",
+   "url": "https://github.com/ArThirtyFour/bb-wayland",
+   "text": "BB ASCII art demo (forked to Wayland)",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
   },
   {
    "name": "WDTT-SERVER",
