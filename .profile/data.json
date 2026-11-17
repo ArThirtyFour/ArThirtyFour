@@ -1,10 +1,14 @@
 {
- "key": "1567a405",
+ "key": "1b00bd4d",
  "stars": 25,
- "contributions": 618,
- "repos": 27,
+ "contributions": 621,
+ "repos": 28,
  "followers": 30,
  "languages": [
+  [
+   "C",
+   291133
+  ],
   [
    "CSS",
    175432
@@ -23,15 +27,11 @@
   ],
   [
    "Python",
-   54493
+   58960
   ],
   [
    "HTML",
    35224
-  ],
-  [
-   "Vue",
-   20872
   ]
  ],
  "days": [
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 17,
     "today": true
    },
@@ -132,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 33
  },
  "pins": [
@@ -141,7 +141,7 @@
    "url": "https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame",
    "text": "Keeping track of companies that \"care about your data 🥺\"",
    "fork": false,
-   "stars": 5741,
+   "stars": 5742,
    "language": null,
    "topics": [
     "android",
@@ -161,7 +161,7 @@
    "url": "https://github.com/imputnet/helium",
    "text": "Private, fast, and honest web browser",
    "fork": false,
-   "stars": 22782,
+   "stars": 22792,
    "language": "C++",
    "topics": [
     "browser",
@@ -175,7 +175,7 @@
    "url": "https://github.com/MetrolistGroup/Metrolist",
    "text": "Material Design YouTube Music client for Android, iOS and desktop",
    "fork": false,
-   "stars": 14519,
+   "stars": 14536,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -225,7 +225,7 @@
    "url": "https://github.com/exteraless/exteraless",
    "text": "",
    "fork": false,
-   "stars": 566,
+   "stars": 571,
    "language": "Java",
    "topics": []
   }
@@ -291,6 +291,15 @@
     "neofetch-clone",
     "python"
    ]
+  },
+  {
+   "name": "hakios-devices-lynx",
+   "url": "https://github.com/ArThirtyFour/hakios-devices-lynx",
+   "text": "Port Pixel 7a (lynx) to HakiOS",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
   },
   {
    "name": "Metrolist",
