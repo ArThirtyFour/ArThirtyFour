@@ -1,13 +1,17 @@
 {
- "key": "e417887c",
+ "key": "53b61a5d",
  "stars": 25,
- "contributions": 675,
+ "contributions": 691,
  "repos": 28,
  "followers": 29,
  "languages": [
   [
    "C",
    641104
+  ],
+  [
+   "Python",
+   256624
   ],
   [
    "CSS",
@@ -28,10 +32,6 @@
   [
    "C++",
    62054
-  ],
-  [
-   "Python",
-   58960
   ]
  ],
  "days": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 7,
     "day": 23,
     "today": true
    },
@@ -137,7 +137,7 @@
    "url": "https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame",
    "text": "Keeping track of companies that \"care about your data 🥺\"",
    "fork": false,
-   "stars": 5755,
+   "stars": 5758,
    "language": null,
    "topics": [
     "android",
@@ -157,7 +157,7 @@
    "url": "https://github.com/imputnet/helium",
    "text": "Private, fast, and honest web browser",
    "fork": false,
-   "stars": 22931,
+   "stars": 22956,
    "language": "C++",
    "topics": [
     "browser",
@@ -171,7 +171,7 @@
    "url": "https://github.com/MetrolistGroup/Metrolist",
    "text": "Material Design YouTube Music client for Android, iOS and desktop",
    "fork": false,
-   "stars": 14857,
+   "stars": 14887,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -202,26 +202,11 @@
    ]
   },
   {
-   "name": "forgejo-notifi-bot",
-   "url": "https://github.com/ArThirtyFour/forgejo-notifi-bot",
-   "text": "Simple bot that will notify you when a new  events on Forgejo-based (CodeBerg and etc.)",
-   "fork": true,
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "forgejo",
-    "git",
-    "notifer",
-    "telegram",
-    "telegrambot"
-   ]
-  },
-  {
    "name": "exteraless",
    "url": "https://github.com/exteraless/exteraless",
    "text": "",
    "fork": false,
-   "stars": 586,
+   "stars": 588,
    "language": "Java",
    "topics": []
   }
@@ -289,6 +274,21 @@
    ]
   },
   {
+   "name": "forgejo-notifi-bot",
+   "url": "https://github.com/ArThirtyFour/forgejo-notifi-bot",
+   "text": "Simple bot that will notify you when a new  events on Forgejo-based (CodeBerg and etc.)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "forgejo",
+    "git",
+    "notifer",
+    "telegram",
+    "telegrambot"
+   ]
+  },
+  {
    "name": "hakios-devices-lynx",
    "url": "https://github.com/ArThirtyFour/hakios-devices-lynx",
    "text": "Port Pixel 7a (lynx) to HakiOS",
@@ -341,21 +341,6 @@
    "stars": 0,
    "language": "Kotlin",
    "topics": []
-  },
-  {
-   "name": "forgejo-notifi-bot",
-   "url": "https://github.com/ArThirtyFour/forgejo-notifi-bot",
-   "text": "Simple bot that will notify you when a new  events on Forgejo-based (CodeBerg and etc.)",
-   "fork": true,
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "forgejo",
-    "git",
-    "notifer",
-    "telegram",
-    "telegrambot"
-   ]
   },
   {
    "name": "bootloader-unlock-wall-of-shame",
