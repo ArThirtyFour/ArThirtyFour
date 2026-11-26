@@ -1,7 +1,7 @@
 {
- "key": "315749dc",
- "stars": 25,
- "contributions": 695,
+ "key": "c6f4ea10",
+ "stars": 26,
+ "contributions": 698,
  "repos": 28,
  "followers": 29,
  "languages": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 26,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 33
  },
  "pins": [
@@ -149,7 +149,7 @@
    "url": "https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame",
    "text": "Keeping track of companies that \"care about your data 🥺\"",
    "fork": false,
-   "stars": 5762,
+   "stars": 5763,
    "language": null,
    "topics": [
     "android",
@@ -169,7 +169,7 @@
    "url": "https://github.com/imputnet/helium",
    "text": "Private, fast, and honest web browser",
    "fork": false,
-   "stars": 23039,
+   "stars": 23057,
    "language": "C++",
    "topics": [
     "browser",
@@ -183,7 +183,7 @@
    "url": "https://github.com/MetrolistGroup/Metrolist",
    "text": "Material Design YouTube Music client for Android, iOS and desktop",
    "fork": false,
-   "stars": 15159,
+   "stars": 15213,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -218,7 +218,7 @@
    "url": "https://github.com/exteraless/exteraless",
    "text": "Some client for Telegram",
    "fork": false,
-   "stars": 597,
+   "stars": 599,
    "language": "Java",
    "topics": []
   },
@@ -288,6 +288,15 @@
    ]
   },
   {
+   "name": "hakios-devices-lynx",
+   "url": "https://github.com/ArThirtyFour/hakios-devices-lynx",
+   "text": "Port Pixel 7a (lynx) to HakiOS",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
    "name": "nsofetch",
    "url": "https://github.com/ArThirtyFour/nsofetch",
    "text": "Моя рофл версия neofetch в стиле нсо",
@@ -315,15 +324,6 @@
     "telegram",
     "telegrambot"
    ]
-  },
-  {
-   "name": "hakios-devices-lynx",
-   "url": "https://github.com/ArThirtyFour/hakios-devices-lynx",
-   "text": "Port Pixel 7a (lynx) to HakiOS",
-   "fork": false,
-   "stars": 0,
-   "language": "C",
-   "topics": []
   },
   {
    "name": "Metrolist",
